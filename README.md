@@ -1,0 +1,1 @@
+# Install-DeepSeek-R1-with-Ollama-on-Ubuntu-Server---Automated-Bash-Script
